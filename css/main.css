@@ -147,9 +147,33 @@ a{
     float: right;
 }
 
+.card-outer{
+    margin-left: 100px;
+}
 
+.card{
+    width: 350px;
+    height: 350px;
+    background-color: #827717;
+    border-radius: 20px;
+    display: inline-block;
+    position: relative;
+}
 
+.card-holder{
+    margin: 12.5px;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: white;
+    width: 325px;
+    height: 325px;
+    position: absolute;
+    opacity: 0.8;
+}
 
+.card-para {
+    padding: 15px;
+}
 
 
 
