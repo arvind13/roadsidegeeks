@@ -1,4 +1,6 @@
-<?php include 'layout/header.php'; ?>
+<?php include 'layout/header.php';
+include 'connect.php'; 
+?>
 <div class="cover">
 	<div class="body-holder">
 		<center syle="padding:100px 0px;">

@@ -1,3 +1,4 @@
+<?php include 'connect.php'; ?>
 <!doctype html>
 <html class="no-js" lang="">
     <head>
@@ -20,7 +21,7 @@
         <![endif]-->
         <div class="menu">
             <div class="body-holder">
-                <a class="active" href="">HOME</a><a href="">SERVICES</a><a href="">PRICING</a><a href="">WORK</a><a href="">CONTACT</a>
+                <a class="active" href="index.php">HOME</a><a href="services.php">SERVICES</a><a href="pricing.php">PRICING</a><a href="work.php">WORK</a><a href="contact.php">CONTACT</a>
                 <span class="right">
                     <a href="">+91 (720) 626 4120</a>
                 </span>
